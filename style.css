@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+body{
+    background-color: rgb(118, 183, 226);
+    font-family: Poppins,sans-serif;
+}
+
+.container{
+    background-color: black ;
+    background: rgba(0, 0, 0, 0.7);
+    color: rgb(67, 138, 231);
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 8px;
+    box-shadow:black 2px 2px 15px 1px;
+}
+
+h1{
+    color: blue;
+    background: rgb(67, 138, 231,0.5);
+    border-radius: 5px;
+    box-shadow:black 2px 2px 15px 1px;
+
+    margin: auto;
+    height: 50px;
+    width: 50%;
+    margin-top: 3%;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+    padding: 27px;
+    margin-top: 5%;
+    font-size: 40px;
+}
+#ss{
+    color: rgb(245, 123, 67);
+    text-align: center;
+    font-size: 40px;
+    margin-top: -5%;
+}
+form{
+    color: rgb(233, 236, 44);
+    text-align: center;
+    font-size: 30px;
+    margin-top: 3%;
+    margin-left: 40px;
+    width: 90%;
+    height: 30px;
+}
+input{
+    background-color: black;
+    border: 1px solid white;
+    color: aqua;
+    width: 300px;
+    height: 39px;
+    border-radius: 5px;
+    font-size: large;
+    padding-left: 10px;
+}
+button{
+    font-size: 18px;
+    margin: auto;
+    margin-top: 5%;
+    margin-left: 40%;
+    height: 40px;
+    width: 20%;
+    border-radius: 4px;
+    border: 2px solid rgb(189, 151, 151);
+}
+
+#res{
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    height: 40px;
+    width: 90%;
+    margin-top: 3%;
+    color: goldenrod;
+}
